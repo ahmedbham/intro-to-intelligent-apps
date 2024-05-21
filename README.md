@@ -2,7 +2,9 @@
 
 ## Getting Started with Workshop Preparation
 
-The steps in this section will take you through setting up Azure OpenAI and some configuration files so that you can complete all of the hands-on labs successfully.
+- Fork this repository
+- Click on the `Code` button and select `CodeSpace` to create a new CodeSpace.
+- Obtain an API key from (OpenAI)[https://platform.openai.com/api-keys] 
 
 * [Preparation](labs/00-setup/README.md)
 
