@@ -1,47 +1,5 @@
 # Introduction to Building AI Apps
 
-This repository introduces and helps organizations get started with building AI Apps and incorporating Large Language Models (LLMs) into them.
-
-## Workshop Agenda
-
-The objective of this workshop is to practice realistic AI orchestration scenarios and to learn how to build intelligent apps.
-At the end of the workshop you will: 
-* Know how to use prompt engineering techniques for effective generative AI responses on OpenAI
-* Understand the implications of the usage of tokens and embeddings when interacting with an LLM
-* Have experience in leveraging AI orchestrators like Langchain/ Semantic Kernel with Azure OpenAI
-* Have evaluated different vector stores like Qdrant or Azure AI Search to enhance LLM responses with your data and context
-* Know how to turn a business scenario with data, context and user input into an intelligent application on Azure
-
-### 🌅 Morning (9:00 – 12:15)
-
-> *Focus: Introduction, First Steps & Prompt Engineering*
-
-* 📣 Intro (30min)
-  * Introductions & Setting Expectations
-  * Use Case Ideation & Brainstorming
-* 📣 [Intro to Azure OpenAI, Prompt Engineering & Demos (105min)](presentations/README.md)
-  * Azure OpenAI Service
-  * Demo(s)
-  * Break
-  * 🧑🏼‍💻 [Lab #1 - Hands-on with Prompt Engineering Exercises](labs/01-prompts/README.md)
-* 📣 [Intro to AI Orchestration (60min)](presentations/README.md)
-  * AI Orchestration
-  * Demo(s)
-
-### 🌆 Afternoon (1:15 – 4:30)
-
-> *Focus: Building AI Apps & Incorporating LLMs*
-
-* 📣 [Intro to AI Orchestration Continued (135min)](presentations/README.md)
-  * 💻 [Lab #2 - Hands-on with Integrating AI Exercises](labs/02-integrating-ai/README.md)
-  * 💻 [Lab #3 - Hands-on with AI Orchestration Exercises](labs/03-orchestration/README.md)
-  * 💻 [Lab #4 - Hands-on with Deploying AI Exercises](labs/04-deploy-ai/README.md)
-  * Break
-* Wrapping-up (60min)
-  * Use Case Validation
-  * QnA & Closing Remarks
-
-
 ## Getting Started with Workshop Preparation
 
 The steps in this section will take you through setting up Azure OpenAI and some configuration files so that you can complete all of the hands-on labs successfully.
